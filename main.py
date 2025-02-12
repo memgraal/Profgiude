@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
 
-bot = TeleBot("7716158489:AAHUEJFG9JfQf6qGKmkzmj2AM9IQD4W1vDY")
+bot = TeleBot("")
 
 # Глобальный словарь для ответов пользователя
 user_answers = {}
